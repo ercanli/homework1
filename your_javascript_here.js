@@ -1,5 +1,0 @@
-// Variables
-
-// Game logic
-
-// UI
